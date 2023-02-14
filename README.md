@@ -12,7 +12,7 @@
  - Подробно прочесть можно по ссылке:
  https://docs.google.com/spreadsheets/d/1JK742Wtxj5B_FQWivtv8J-uQBC9FzFxwXYP1T-jfogU/edit?usp=sharing
  
- Тестирование приходило на основе pytest-selenium. Данным инструментом проверялось авторизация и регистрация на сайте
+ Тестирование приходило на основе pytest-selenium. Данным инструментом проверялась авторизация и регистрация на сайте. Выбран этот иснтрумент из-за простоты использования и получения точных результатов. 
  
  - Тест запущен с помощью pytest -v --driver Chrome --driver-path /mvideo-/Desktop/chrome/chromedriver.exe tests_rost.py
  - Использован webdriver для Chrome версия 110.0.5481.77
