@@ -17,3 +17,4 @@
  
  test_rost - описаны тесты
  settings - необходимые данные для теста 
+![image](https://user-images.githubusercontent.com/112345960/218834776-f51eb9a1-3cd0-4c80-a3a1-6a4b35be655b.png)
